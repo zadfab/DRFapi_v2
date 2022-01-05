@@ -7,21 +7,10 @@ For more information on this file, see
 https://docs.djangoproject.com/en/3.1/howto/deployment/asgi/
 """
 
+import os
+
+from django.core.asgi import get_asgi_application
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'rfw.settings')
 
 application = get_asgi_application()
-
-asdbsbfh bhjbfvvbhj vbhj
-'df
-sdf 
-dg ffds 
-f fd  ds; bkgdng dffd
-  dg'g decode has_keytddh ghgh 
-  dh dgr 
-  'dgh
-  hf
-    
-    dhh 
-    hd has_keydh
-    h
