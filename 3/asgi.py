@@ -10,6 +10,7 @@ https://docs.djangoproject.com/en/3.1/howto/deployment/asgi/
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'rfw.settings')
 
+
 application = get_asgi_application()
 
 asdbsbfh bhjbfvvbhj vbhj
@@ -25,3 +26,4 @@ f fd  ds; bkgdng dffd
     dhh 
     hd has_keydh
     h
+
